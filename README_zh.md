@@ -1,8 +1,4 @@
-感谢指正！经访问 [qianliu.com](https://qianliu.com) 确认，**千流导航** 是一个简洁、实用的中文网址导航网站，旨在为用户提供高效、清爽的上网入口服务。
 
-以下是为其 GitHub 项目撰写的 Markdown 介绍：
-
----
 
 # 千流导航（qianliu.com）
 
