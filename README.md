@@ -1,6 +1,4 @@
-Sure! Here's the English version of the introduction for **QianLiu Navigation (qianliu.com)**, formatted in Markdown and suitable for a GitHub README:
 
----
 
 # QianLiu Navigation (qianliu.com)
 
